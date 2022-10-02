@@ -35,7 +35,7 @@ Docker Big data tools
 #### quickstart :100: 
 >  use only the  hadoop cluster without the cloudera manager :first_place_medal: 
 ```bash=
-    git clone https://gitlab.com/AbdellatifAhammad/docker-bigdata.git
+    git clone https://github.com/abdellatifAhammad/Dockerized-bigdata-tools
     cd docker-bigdata/cloudera_express
     sudo docker-compose up
 ```
@@ -80,7 +80,7 @@ Docker Big data tools
 ### quick start
 
 ```bash=
-    git clone https://gitlab.com/AbdellatifAhammad/docker-bigdata.git
+    git clone https://github.com/abdellatifAhammad/Dockerized-bigdata-tools
     cd docker-bigdata/big_data
     sudo dcoker-compose up -d
 ```
